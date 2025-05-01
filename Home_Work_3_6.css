@@ -1,0 +1,20 @@
+h1 {
+    /* Окрасили буквы */
+    color: blue;
+    /* Выравнивание по центру */
+    text-align: center;
+    /* Размер шрифта */
+    font-size: 36px;
+    /* Стиль шрифта */
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  p,
+  code {
+    /* Окрасили буквы */
+    color: black;
+    /* Размер шрифта */
+    font-size: 18px;
+    /* Задний фон */
+    background-color: LightCyan;
+  }
+  
